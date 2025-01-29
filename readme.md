@@ -17,7 +17,7 @@ Before running the code, you need to set the OpenAI API key as an environment va
 ```sh
 set OPENAI_API_KEY="your_openai_api_key"
 ```
-Replace your_openai_api_key with your actual OpenAI API key.
+Replace ```your_openai_api_key``` with your actual OpenAI API key.
 
 ## Running the code
 
