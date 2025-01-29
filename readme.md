@@ -1,5 +1,11 @@
 # Code Analysis Agent
 
+Main functions are as follows:
+
+- Code Analysis
+- Code Smell Detection
+- Code Enhancement
+
 ## Requirements
 
 Make sure you have the following dependencies installed:
