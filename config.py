@@ -1,2 +1,2 @@
-openai_api_key = "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"
-
+# The key should start with "sk-"
+openai_api_key = "your_open_api_key"
